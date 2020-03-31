@@ -1,0 +1,15 @@
+{
+  "name": "gl-rtplot",
+  "version": "0.1.0",
+  "description": "High performance webgl real time stream plotting",
+  "main": "index.js",
+  "homepage": "https://github.com/flyinv1/gl-rtplot#readme",
+  "bugs": {
+    "url": "https://github.com/flyinv1/gl-rtplot/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matt Vredevoogd <matt.vredevoogd@gmail.com> (https://github.com/flyinv1)",
+  "license": "MIT"
+}
